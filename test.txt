@@ -1,3 +1,4 @@
 this is a test file
 now second version
 third
+ now try git reset HEAD file
